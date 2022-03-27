@@ -44,8 +44,8 @@ GIVEN a text editor web application
 - [x] THEN I should have a registered service worker using workbox
 - [x] WHEN I register a service worker
 - [x] THEN I should have my static assets pre cached upon loading along with subsequent pages and static assets
-WHEN I deploy to Heroku
-THEN I should have proper build scripts for a webpack application
+- [x] WHEN I deploy to Heroku
+- [x] THEN I should have proper build scripts for a webpack application
 ```
 
 ## Mock-Up
